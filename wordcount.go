@@ -8,6 +8,8 @@ import (
 )
 
 func main() {
+	// new comment #1
+
 	s := os.Args[1]
 	if s == "" {
 		fmt.Println(0)
